@@ -1,10 +1,7 @@
 # command list
 ```
-composer create-project laravel/
+composer create-project laravel/laravel:^9.1.1 it-shop
 ``` 
-```   
-laravel:^9.1.1 it-shop
-```
 ```
 php artisan serve
 ```
